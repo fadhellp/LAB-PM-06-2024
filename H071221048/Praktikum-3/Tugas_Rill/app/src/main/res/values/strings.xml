@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">H071221048_Tugas_3_RecyclerView</string>
+
+    <string-array name="lvlName">
+        <item>Tidal Wave</item>
+        <item>Avernus</item>
+        <item>Acheron</item>
+        <item>Silent Clubstep</item>
+        <item>Abyss of Darkness</item>
+        <item>Kyouki</item>
+        <item>Slaughterhouse</item>
+        <item>Sakupen Circles</item>
+        <item>Tunnel of Despair</item>
+        <item>KOCMOC</item>
+    </string-array>
+
+    <string-array name="lvlDesc">
+        <item>Tidal Wave is a 2.1 solo Extreme Demon level created and
+            published by OniLink and verified by Zoink on 9 September 2023
+            after 49,534 attempts. It is notable for its three-minute length,
+            wave-based gameplay style similar to that of a Nine Circles level,
+            its uniquely bright summer/beach theme.
+        </item>
+        <item>
+          Avernus (formerly known as The Inferno or The Gates) is a 2.1 Extreme Demon mega-collaboration level hosted by BoBoBoBoBoBoBo (commonly shortened to Bo) and PockeWindfish and co-hosted by Kyhros. It was published by PockeWindfish and verified by Zoink on 22 March 2023 after 27,732 attempts
+        </item>
+        <item>
+            Acheron is a 2.1 Extreme Demon mega-collaboration hosted by ryamu and Riot, published by ryamu and verified by Zoink on 23 August 2022 after 72,808 attempts.
+            The level features a dark, predominantly grayscale theming blended with red accents
+        </item>
+        <item>
+          Silent clubstep is a 1.8/1.9/2.1 former impossible solo Extreme Demon level created, hack-verified and published by Sailent. It is a silent-level remake of the main level Clubstep and one of the most famous levels in Geometry Dash
+        </item>
+        <item>
+            Abyss of Darkness (commonly abbreviated to AoD) is a 2.1 Extreme Demon mega-collaboration hosted and published by Exen.
+            The level features extremely tight timings with no strong emphasis on one game-mode
+        </item>
+        <item>
+            Kyouki is a 2.1 solo Extreme Demon created, verified and published by Demishio
+            The level features fast gameplay with near humanly-impossible timings and quick game-mode changes, making the level very difficult to learn.
+        </item>
+        <item>
+            Slaughterhouse is a 2.1 Extreme Demon mega-collaboration level created by IcEDCave, EndLevel, river, Iris, DrCuber, CDMusic and Brittank88, published by IcEDCave
+        </item>
+        <item>
+            Sakupen Circles (formerly known as Iron God) is a 2.1 Extreme Demon collaboration level hosted by Muffy450
+            The level is a remake of the 1.9 impossible level of the same name and takes several gameplay ideas from Iron God, an older level created by Muffy450.
+        </item>
+        <item>
+            "???" Level is yet to be described
+        </item>
+        <item>
+           KOCMOC (cosmos)[Notes 1] is a 2.1 Extreme Demon mega-collaboration level created and published by the members of Cherry Team
+            The level is heavily inspired by the former Top 1 Demon Slaughterhouse, with most of the gameplay consisting of tight, spam-based wave segments.
+        </item>
+    </string-array>
+
+    <integer-array name="likes">
+        <item>
+            109878
+        </item>
+        <item>
+            3049
+        </item>
+        <item>
+            177013
+        </item>
+        <item>
+            228922
+        </item>
+        <item>
+            256897
+        </item>
+        <item>
+            179442
+        </item>
+        <item>
+            207597
+        </item>
+        <item>
+            312005
+        </item>
+        <item>
+            319882
+        </item>
+        <item>
+            273006
+        </item>
+    </integer-array>
+    <integer-array name="dislikes">
+        <item>
+            111
+        </item>
+        <item>
+            222
+        </item>
+        <item>
+            333
+        </item>
+        <item>
+            444
+        </item>
+        <item>
+            432
+        </item>
+        <item>
+            666
+        </item>
+        <item>
+            567
+        </item>
+        <item>
+            213
+        </item>
+        <item>
+            234
+        </item>
+        <item>
+            90
+        </item>
+    </integer-array>
+</resources>
