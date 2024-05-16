@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">H071221048_Andi Ahmad Salwan _Tugas 4_Fragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Home">Home</string>
+    <string name="Add">Add</string>
+    <string name="Profile">Profile</string>
+    <string-array name="MyProfile">
+        <item>Tanjiro Kamado</item>
+        <item>Water Breathing...</item>
+        <item>Tanjiro Kamado (竈門かまど 炭たん治じ郎ろう Kamado Tanjirō?) is the main protagonist of Demon Slayer: Kimetsu no Yaiba. He is a Demon Slayer in the Demon Slayer Corps, who joined to find a remedy to turn his sister, Nezuko Kamado, back into a human and to hunt down and kill demons,and later swore to defeat Muzan Kibutsuji, the King of Demons, in order to prevent others from suffering the same fate as him.</item>
+    </string-array>
+    <string-array name="profileName">
+        <item>Caelus</item>
+        <item>Furina</item>
+        <item>Lucia</item>
+        <item>Robin</item>
+        <item>Vice</item>
+    </string-array>
+    <string-array name="profileDesc">
+        <item>I miss her</item>
+        <item>Care for a show ?</item>
+        <item>Nonmaden</item>
+        <item>Sing you to sleep</item>
+        <item>We\'re going to get B- with this one</item>
+    </string-array>
+    <string-array name="profileLongDesc">
+        <item>Many shonen heroes are known for being dimwitted, naive, reckless and/or impulsive. Most shonen heroes can be rebellious, mischievous, unruly and/or temperamental. These characters tend to suffer some plot armor. Like Shojo heroines, many shonen heroes refuse to kill their pure evil and/or too dangerous villains.</item>
+        <item>Furina de Fontaine is a playable Hydro character in Genshin Impact who can alternate between Pneuma and Ousia alignments.
+            Introduced as the flamboyant and overconfident Hydro Archon, Furina\'s theatrics are eventually revealed to be a public persona, which she later discards in favor of living a relatively humbler life as an actress and artistic consultant. ?</item>
+        <item>The “cold” girl is a type of woman who is mysterious, with many layers to her identity. A girl who creates a special magnetic pull of curiosity that intrigues you and makes you want to get to know her better</item>
+        <item>A Halovian singer born in Penacony and rose to cosmic fame. An elegant and demure young lady.
+This time, she has been invited home by The Family to grace everyone with a song at the Charmony Festival.</item>
+        <item>I\'m Vice! You do remember me, right? Oh... great! For a moment there, I was worried that I make absolutely no impression on anybody!
+        </item>
+    </string-array>
+</resources>
